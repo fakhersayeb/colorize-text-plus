@@ -1,0 +1,23 @@
+name: colorize_text_plus
+description: Flutter widget for animated text transitions using solid colors or gradients, glow, curves, and loop modes.
+version: 1.0.0
+homepage: https://github.com/fakhersayeb/colorize_text_plus
+repository: https://github.com/fakhersayeb/colorize_text_plus
+topics:
+  - animation
+  - text
+  - flutter
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
